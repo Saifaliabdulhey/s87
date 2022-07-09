@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/s87/static/css/main.e9a2cc74.css",
+    "main.js": "/s87/static/js/main.e361ff7c.js",
+    "static/js/787.c23b5725.chunk.js": "/s87/static/js/787.c23b5725.chunk.js",
+    "static/media/head-img.jpg": "/s87/static/media/head-img.380b307b7a6c3a0f551d.jpg",
+    "static/media/img9.jpg": "/s87/static/media/img9.5619448caf08d8ba417b.jpg",
+    "static/media/charger.png": "/s87/static/media/charger.eb6548c843697804aed6.png",
+    "static/media/img2.jpg": "/s87/static/media/img2.52af7fa35bb67bdf51b9.jpg",
+    "static/media/img1.jpg": "/s87/static/media/img1.605cdbe4a5eb0a9214ba.jpg",
+    "static/media/charger.jpg": "/s87/static/media/charger.dbcd51b18f519208218a.jpg",
+    "static/media/img5.jpg": "/s87/static/media/img5.c15d7ddb51d77f2f9dfa.jpg",
+    "static/media/img10.jpg": "/s87/static/media/img10.ffa1d06f2de2e5bcb4a0.jpg",
+    "static/media/img13.jpg": "/s87/static/media/img13.fb8e145ff89f11504358.jpg",
+    "static/media/img3.jpg": "/s87/static/media/img3.7e12217c5f962a64271c.jpg",
+    "static/media/img11.jpg": "/s87/static/media/img11.478be9940d0ec47385b8.jpg",
+    "static/media/logo.png": "/s87/static/media/logo.3db9c4fd3733c01f4b1f.png",
+    "static/media/img12.jpg": "/s87/static/media/img12.b27cf02de142fb119b90.jpg",
+    "static/media/img7.jpg": "/s87/static/media/img7.d4d785557b52e4402aaa.jpg",
+    "static/media/img8.jpg": "/s87/static/media/img8.422ee832620ec2651e28.jpg",
+    "static/media/img4.jpg": "/s87/static/media/img4.5aab052ec5b8c6ee1852.jpg",
+    "static/media/img6.jpg": "/s87/static/media/img6.fd25b1c8da66d4b8e409.jpg",
+    "static/media/img14.jpg": "/s87/static/media/img14.7d663e14cd3076a017d9.jpg",
+    "index.html": "/s87/index.html",
+    "main.e9a2cc74.css.map": "/s87/static/css/main.e9a2cc74.css.map",
+    "main.e361ff7c.js.map": "/s87/static/js/main.e361ff7c.js.map",
+    "787.c23b5725.chunk.js.map": "/s87/static/js/787.c23b5725.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9a2cc74.css",
+    "static/js/main.e361ff7c.js"
+  ]
+}
