@@ -1,5 +1,4 @@
 import './App.scss';
-import Home from './components/Home'
 import LandingPage from './components/LandingPage'
 import { BrowserRouter as Router, Routes, Route, Link, Switch, } from 'react-router-dom';
 import AmericanSaoa from './components/states/AmericanSaoa';
@@ -13,7 +12,7 @@ function App() {
       <Header />
         <Routes>
           <Route path="/landing" element={<LandingPage />} />
-          <Route path="/owner" element={<Home />} />
+          <Route path="/owner" element={<LandingPage />} />
           <Route path="/landing/:id" element={<AmericanSaoa />} />
         </Routes>
       </Router>
