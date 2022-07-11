@@ -11,7 +11,7 @@ function App() {
       <Router>
       <Header />
         <Routes>
-          <Route path="/landing" element={<LandingPage />} />
+          <Route path="/87" element={<LandingPage />} />
           <Route path="/s87/" element={<LandingPage />} />
           <Route path="/landing/:id" element={<AmericanSaoa />} />
         </Routes>
